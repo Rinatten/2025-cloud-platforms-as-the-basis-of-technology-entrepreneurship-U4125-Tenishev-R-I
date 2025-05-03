@@ -4,6 +4,6 @@ Course: [Cloud platforms as the basis of technology entrepreneurship]([https://]
 Year: 2025
 Group: U4125
 Author: Filianin Ivan Victorovich
-Lab: Lab1
+Lab: Lab3
 Date of create: 03. 05. 2025
 Date of finished: -
